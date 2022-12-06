@@ -1,4 +1,4 @@
-signup-form.html Defect Report
+signup-form.html Defect Report *Please view as Raw text*.
 
 || Defect || Description                                                                                               || Severity || Priority || Reproduction                              ||
 || ======================================================================================================================================================================================== ||

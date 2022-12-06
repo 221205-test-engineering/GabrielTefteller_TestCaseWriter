@@ -1,4 +1,4 @@
-login.html Defect Report
+login.html Defect Report *please view as raw text*
 
 || Defect || Description || Severity || Priority || Reproduction ||
 || ============================================================= ||
